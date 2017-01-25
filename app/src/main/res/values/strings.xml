@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PadmajaBrooms</string>
+    <string name="firm_name">M/s Padmaja Broom Sticks Mfg Unit</string>
+    <string name="firm_description">Wholesale suppliers of Coconut broomsticks, Coir brooms and Bamboo sticks</string>
+    <string name="firm_address">2-19, Kapulapalem, Palakol, West Godavari District, AndhraPradesh, INDIA - 534260</string>
+    <string name="working_time">9 AM to 6 PM</string>
+    <string name="contact_phone">+91-9290513445</string>
+    <string name="contact_email">padmajabrooms@gmail.com</string>
+</resources>
